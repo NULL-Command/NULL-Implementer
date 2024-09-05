@@ -5,7 +5,7 @@ Welcome to **NULL Implementer** project – An artificial intelligence assistant
 - [Vietnamese](docs/vi/README.md)
 ## Contribution
 We welcome contributions from everyone! To get started, please follow these steps:
-1. **Open an Issue**: If you have any issues or suggestions, open a new issue on [Issues](https://github.com/username/repo/issues).
+1. **Open an Issue**: If you have any issues or suggestions, open a new issue on [Issues](https://github.com/NULL-Command/NULL-Implementer/issues).
 2. **Submit a Pull Request**: Fork this repository, make your changes, and submit a pull request.
 Thank you for contributing!
 ## Feedback and Contact
