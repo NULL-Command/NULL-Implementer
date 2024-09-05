@@ -33,7 +33,7 @@
 ## Cài đặt
 Để cài đặt NULL Implementer, hãy làm theo các bước sau:
 1. **Tải xuống Bản phát hành**:
-- Truy cập trang [Bản phát hành](https://github.com/NULL-Command/PROJECT-null-implementer/releases) của kho lưu trữ này.
+- Truy cập trang [Bản phát hành](https://github.com/NULL-Command/NULL-Implementer/releases) của kho lưu trữ này.
 - Tải xuống tệp `null-implementer.exe` phiên bản mới nhất.
 2. **Thêm `null-implementer.exe` vào Path Environment**:
 - Di chuyển tệp `null-implementer.exe` đã tải xuống đến thư mục có trong biến môi trường PATH của hệ thống.

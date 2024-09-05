@@ -34,7 +34,7 @@ To quickly start using **NULL Implementer**, follow these steps:
 ## Installation
 To install NULL Implementer, follow these steps:
 1. **Download the Release**:
-- Go to the [Releases](https://github.com/NULL-Command/PROJECT-null-implementer/releases) page of this repository.
+- Go to the [Releases](https://github.com/NULL-Command/NULL-Implementer/releases) page of this repository.
 - Download the latest version of the `null-implementer.exe` file.
 2. **Add `null-implementer.exe` to Path Environment**:
 - Move the downloaded `null-implementer.exe` file to a directory that is included in the system’s PATH environment variable.
